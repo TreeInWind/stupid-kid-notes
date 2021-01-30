@@ -11,3 +11,17 @@
 *.iml; -> 忽略所有iml类型的文件。
 
 target	表示忽略文件夹名称为 target 的文件夹。 
+
+
+
+### 设计阿里巴巴 p3c 格式化代码模板
+
+1. 下载eclipse格式化代码插件
+
+   ![eclipse-code-formatter插件](./static/eclipse-code-formatter插件.png)
+
+2. 下载完成之后，idea settings左侧菜单的 other setting中会出现对应的 eclipse code formatter插件，点击选项
+
+3. 右侧更换为使用该插件，并引入格式化代码文件
+
+   <img src="./static/idea中引入 p3c 格式化代码模板.png" alt="idea中引入 p3c 格式化代码模板" style="zoom:43%;" />
