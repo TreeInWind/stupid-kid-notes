@@ -61,7 +61,7 @@ source /etc/profile
 1. 若已经安装了旧版本，则先卸载
 
 ```
-$ sudo yum remove docker \
+$ sudo yum remove docker 
                   docker-client \e
                   docker-client-latest \
                   docker-common \
