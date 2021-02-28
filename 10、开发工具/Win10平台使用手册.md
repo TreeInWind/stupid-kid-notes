@@ -1,6 +1,6 @@
 ## 系统使用
 
-#### 修改host文件
+### 修改host文件
 
 * host文件目录位置：
 
@@ -50,6 +50,12 @@ win + d 快速切换到桌面
 |          |                               |      |
 
 
+
+### 定制某个用户的开机自启动应用
+
+存储某个用户的自启动应用程序的目录：C:\Users\yongliang.ma\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+操作：将所需要自启动应用的快捷方式存储到该目录下即可
 
 
 
