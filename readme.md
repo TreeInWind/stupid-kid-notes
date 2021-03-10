@@ -21,5 +21,6 @@
 
 #### 将代码维护到两个仓库
 git push mirror master 提交master分支到mirror（已经在.git配置文件中做映射）仓库
+git push origin master 提交master分支到origin（已经在.git配置文件中做映射）仓库
 
 
